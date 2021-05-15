@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ivan Ying's Profile
+
+### Hi! Welcome to my github page!
 
 <!--
 **IvanYingX/IvanYingX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
