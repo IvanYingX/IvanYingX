@@ -1,19 +1,23 @@
-# Ivan Ying's Profile
+Hi! Welcome to my GitHub page!
 
-### Hi! Welcome to my github page!
+My name is Iván, and I am a Senior Full Stack Engineer with a background in Process and Chemical Engineering (PhD, Imperial College London). While my academic roots are in engineering, my passion for coding and problem-solving led me to transition into software development and data science. I specialize in full stack development, AI-driven solutions, and cloud-based applications.
 
-My name is Iván, I have a background in Chemical Engineering, with a PhD in Process and Chemical Engineering from Imperial College London. Despite my background, I pivoted my career towards Data Science. One of the main reasons I changed paths is because I love coding and programming, and I try to apply my knowledge into real life problems. I am currently on my way to be a proficient Data Scientist, so I enrolled into the AI Core fellowship, which trained us to in the creation and deployment of AI, including building data pipelines, data cleaning, deep learning, cloud, CI/CD and more<br>
+Currently, I work as a Full Stack Engineer at AiCore, where I design and implement scalable React, Node.js, and AWS-based applications for an AI and data science education platform. I take ownership of features end-to-end, from backend architecture to frontend performance optimization. My work also involves integrating engagement tools and mentoring aspiring engineers, which aligns with my passion for education and technology.<br>
 
-Among my main set of skills, I would highlight:<br>
+My Key Skills:<br>
 
-🐍 Python <br>
-🔧 Engineering <br>
-📊 Machine Learning <br>
-🤖 Deep Learning (Tensorflow and Pytorch) <br>
+🚀 Full Stack Development (TypeScript, React, Node.js, PostgreSQL, AWS Lambda)<br>
+🐍 Python & AI/ML (TensorFlow, PyTorch, Data Pipelines)<br>
+🔧 Cloud & DevOps (AWS, CI/CD, Serverless Architectures)<br>
+📊 Data Science & Analytics (Machine Learning, Process Optimization)<br>
 
-I hope you like my github page, this is a collection of my personal projects as well as some projects that I worked along with some colleagues in the AI Core fellowship.<br>
+This GitHub serves as a collection of personal projects, full stack applications, and AI experiments, reflecting my continuous learning and exploration in software engineering and data science.<br>
 
-If you have any question about any repo, or want to contact me, don't hesitate to:<br>
+If you have any questions about my work or would like to collaborate, feel free to reach out:<br>
 
-📨 Drop me an email to: ivan.ying.xuan@gmail.com<br>
-💻 Message me through LinkedIn: [linkedin.com/in/ivanyingxuan](linkedin.com/in/ivanyingxuan)
+📨 Email: ivan.ying.xuan@gmail.com<br>
+💻 LinkedIn: linkedin.com/in/ivanyingxuan<br>
+🌍 Portfolio: ivanyingxuan.com<br>
+
+Thanks for visiting, and happy coding! 🚀
+
